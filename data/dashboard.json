@@ -1,0 +1,34 @@
+{
+  "updated": "09/11/2026 18:36 — horário de São Luís",
+  "projects": [
+    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Requisitos em definição","next":"Aplicar foto recebida e definir captação e acompanhamento de leads, integração, escopo e prazo."},
+    {"name":"Wellcrest Lab","icon":"↗","status":"Próxima entrega a confirmar","next":"Confirmar situação do projeto e definir a próxima ação, sem presumir publicações ou resultados."},
+    {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
+    {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."}
+  ],
+  "tasks": [
+    {"area":"PixelLabs","text":"Aplicar a foto recebida no site imobiliário."},
+    {"area":"PixelLabs","text":"Confirmar CRM atual, forma de controle dos contatos e tamanho da equipe de atendimento."},
+    {"area":"PixelLabs","text":"Definir solução de CRM, integração, campos de captação, escopo, orçamento privado e prazo. Não presumir desenvolvimento do zero."},
+    {"area":"Wellcrest Lab","text":"Confirmar pendências e escolher próxima entrega."},
+    {"area":"Carro","text":"Validar amortecedor dianteiro direito, coifas, pastilhas e junta axial esquerda com diagnóstico e compatibilidade."},
+    {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
+    {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
+    {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
+    {"area":"Contingência","text":"Escolher barras de proteína e definir quantidade, validade e adequação alimentar antes da compra."},
+    {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."}
+  ],
+  "bills": [
+    {"name":"Energia","paid":true,"status":"Paga em 09/11/2026"},
+    {"name":"Internet","paid":true,"status":"Paga em 09/11/2026"},
+    {"name":"Parcela do carro","paid":false,"status":"Vencimento recorrente: dia 26 · pagamento a confirmar"},
+    {"name":"Condomínio","paid":false,"status":"Vencimento e pagamento a confirmar"},
+    {"name":"Maçonaria","paid":false,"status":"Vencimento e pagamento a confirmar"},
+    {"name":"Spotify","paid":false,"status":"Vencimento recorrente: dia 4 · pagamento a confirmar"},
+    {"name":"Academia","paid":false,"status":"Vencimento recorrente: dia 8 · pagamento a confirmar"}
+  ],
+  "supplies": [
+    {"name":"Almôndegas enlatadas","status":"Adquirido","detail":"3 latas · validade informada: 24/09/2029."},
+    {"name":"Barras de proteína","status":"Compra não confirmada","detail":"Quantidade e especificações a definir."}
+  ]
+}
