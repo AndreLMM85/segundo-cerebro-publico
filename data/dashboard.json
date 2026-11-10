@@ -1,21 +1,29 @@
 {
-  "updated": "09/11/2026 19:14 — horário de São Luís",
+  "updated": "10/11/2026 07:00 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
-    {"name":"Wellcrest Lab","icon":"↗","status":"Próxima entrega a confirmar","next":"Confirmar situação do projeto e definir a próxima ação, sem presumir publicações ou resultados."},
+    {"name":"Wellcrest Lab","icon":"↗","status":"Novas postagens a preparar","next":"Definir temas, produzir textos e materiais e revisar antes de publicar. Nenhuma publicação nova confirmada."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
-    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Apresentar em 17/11/2026","next":"Retomar o trabalho, revisar material existente e identificar o que falta concluir."}
+    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Apresentar em 17/11/2026","next":"Retomar o trabalho, revisar material existente e identificar o que falta concluir."},
+    {"name":"Pendências administrativas","icon":"□","status":"Duas pendências para 10/11","next":"Conferir e encaminhar um arquivamento; no outro caso, despacho pronto e inclusão de nome aguardando informação. Sem dados dos processos neste painel."}
   ],
   "tasks": [
+    {"area":"Prioridades 10/11 — TCE","text":"8h–8h45: conferir requisitos e concluir um arquivamento, se estiver regular."},
+    {"area":"Prioridades 10/11 — TCE","text":"8h45–9h15: revisar o despacho pronto, solicitar o nome pendente e aguardar resposta para incluí-lo."},
+    {"area":"Prioridades 10/11 — Wellcrest","text":"9h15–10h30: definir e preparar novas postagens; revisar antes de publicar."},
+    {"area":"Prioridades 10/11 — PixelLabs","text":"10h30–12h: atualizar foto do site imobiliário e avaliar CRM e captador de leads."},
+    {"area":"Prioridades 10/11 — TCE","text":"12h–12h30: fazer pausa e conferir se chegou o nome para o processo; incluir apenas se confirmado."},
+    {"area":"Prioridades 10/11 — PixelLabs","text":"12h30–13h40: conferir arquivos do outro site e identificar alterações necessárias."},
+    {"area":"Prioridades 10/11","text":"13h40–14h: revisar encaminhamentos e registrar o que ficou pendente."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
     {"area":"PixelLabs — site imobiliário","text":"Aguardar as imagens dos imóveis para utilizá-las no site."},
     {"area":"PixelLabs — atualização de site","text":"Conferir os arquivos recebidos, ainda não analisados."},
     {"area":"PixelLabs — atualização de site","text":"Identificar as alterações necessárias e atualizar o site com o material recebido."},
-    {"area":"Wellcrest Lab","text":"Confirmar pendências e escolher próxima entrega."},
+    {"area":"Wellcrest Lab","text":"Preparar novas postagens e confirmar antes de publicar."},
     {"area":"Carro","text":"Validar amortecedor dianteiro direito, coifas, pastilhas e junta axial esquerda com diagnóstico e compatibilidade."},
     {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
@@ -32,7 +40,7 @@
     {"name":"Condomínio","paid":false,"status":"Vencimento e pagamento a confirmar"},
     {"name":"Maçonaria","paid":false,"status":"Vencimento e pagamento a confirmar"},
     {"name":"Spotify","paid":false,"status":"Vencimento recorrente: dia 4 · pagamento a confirmar"},
-    {"name":"Academia","paid":false,"status":"Vencimento recorrente: dia 8 · pagamento a confirmar"}
+    {"name":"Academia","paid":true,"status":"Paga em 09/11/2026"}
   ],
   "supplies": [
     {"name":"Almôndegas enlatadas","status":"Adquirido","detail":"3 latas · validade informada: 24/09/2029."},
