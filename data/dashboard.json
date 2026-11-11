@@ -1,5 +1,57 @@
 {
-  "updated": "11/11/2026 13:40 — horário de São Luís",
+  "updated": "11/11/2026 16:49 — horário de São Luís",
+  "gamification": {
+    "level": 1,
+    "levelName": "Iniciante",
+    "xp": 0,
+    "nextLevelXp": 100,
+    "streak": 0,
+    "weeklyMissions": [
+      {"area": "TCE", "title": "Concluir e enviar processo prioritário", "xpBonus": 20, "status": "Pendente"},
+      {"area": "PixelLabs", "title": "Avançar uma entrega concreta de site, lead ou follow-up", "xpBonus": 20, "status": "Pendente"},
+      {"area": "Wellcrest", "title": "Publicar um conteúdo", "xpBonus": 20, "status": "Pendente"}
+    ],
+    "achievements": [],
+    "xpRules": [
+      {"action": "Tarefa 🔵 Baixa concluída", "xp": 5},
+      {"action": "Tarefa 🟡 Média concluída", "xp": 10},
+      {"action": "Tarefa 🟠 Alta concluída", "xp": 20},
+      {"action": "Tarefa 🔴 Urgente concluída", "xp": 30},
+      {"action": "Processo TCE concluído, assinado e enviado", "xp": 40},
+      {"action": "Postagem Wellcrest publicada", "xp": 25},
+      {"action": "Etapa de site/cliente entregue", "xp": 35},
+      {"action": "Conta paga no prazo", "xp": 15},
+      {"action": "Registro semanal do Uber", "xp": 10},
+      {"action": "Bloco de produção concluído", "xp": 10},
+      {"action": "Avanço no plano de contingência", "xp": 20},
+      {"action": "Meta semanal de Uber atingida", "xp": 30}
+    ],
+    "levels": [
+      {"level": 1, "name": "Iniciante", "xp": 0},
+      {"level": 2, "name": "Executor", "xp": 100},
+      {"level": 3, "name": "Organizador", "xp": 300},
+      {"level": 4, "name": "Construtor", "xp": 700},
+      {"level": 5, "name": "Estrategista", "xp": 1500},
+      {"level": 6, "name": "Arquiteto", "xp": 3000},
+      {"level": 7, "name": "Mestre do Segundo Cérebro", "xp": 6000}
+    ],
+    "achievementsCatalog": [
+      {"id": "first_delivery", "icon": "🥇", "name": "Primeira entrega", "rule": "Concluir a primeira tarefa registrada."},
+      {"id": "week_complete", "icon": "📅", "name": "Semana em dia", "rule": "Concluir as três missões semanais."},
+      {"id": "streak_7", "icon": "🔥", "name": "Sequência de 7 dias", "rule": "Realizar pelo menos uma ação relevante por dia durante 7 dias."},
+      {"id": "finances_on_track", "icon": "💰", "name": "Finanças em dia", "rule": "Pagar as contas previstas no período."},
+      {"id": "client_progress", "icon": "🚀", "name": "Cliente avançado", "rule": "Concluir uma entrega relevante para cliente."},
+      {"id": "prepared", "icon": "🛡️", "name": "Preparado", "rule": "Concluir um marco do plano de contingência."},
+      {"id": "week_master", "icon": "🏆", "name": "Mestre da semana", "rule": "Concluir todas as missões da semana."}
+    ],
+    "rules": [
+      "XP é atribuído apenas após a entrega real.",
+      "Processo TCE só pontua quando assinado pela chefe e enviado ao setor responsável.",
+      "Atraso não zera XP; apenas impede o bônus da semana.",
+      "A sequência usa escudo para imprevistos e não é zerada por uma única falha.",
+      "Nenhum valor financeiro, dado de saúde, rota, contato ou link privado entra no painel público."
+    ]
+  },
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
