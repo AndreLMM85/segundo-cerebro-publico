@@ -1,5 +1,5 @@
 {
-  "updated": "11/11/2026 13:13 — horário de São Luís",
+  "updated": "11/11/2026 13:15 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
@@ -14,8 +14,6 @@
   "tasks": [
     {"area":"TCE — ofício com dois nomes","text":"Aguardar aprovação do ofício com os dois nomes incluídos.","priority":"Alta","status":"Aguardando aprovação","next":"Após aprovação, encaminhar o processo."},
     {"area":"TCE — abono de faltas","text":"Aguardar aprovação do processo de abono de faltas enviado ao GEP.","priority":"Alta","status":"Aguardando aprovação","next":"Aguardar retorno do GEP."},
-    {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 07/12/2026 a 11/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
-    {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 14/12/2026 a 18/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
