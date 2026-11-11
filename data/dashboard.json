@@ -1,5 +1,5 @@
 {
-  "updated": "11/11/2026 08:05 — horário de São Luís",
+  "updated": "11/11/2026 09:50 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
@@ -7,16 +7,13 @@
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Apresentar em 17/11/2026","next":"Retomar o trabalho, revisar material existente e identificar o que falta concluir."},
-    {"name":"Pendências administrativas","icon":"□","status":"Duas pendências para 10/11","next":"Conferir e encaminhar um arquivamento; no outro caso, despacho pronto e inclusão de nome aguardando informação. Sem dados dos processos neste painel."}
+    {"name":"Pendências administrativas","icon":"□","status":"Um processo pendente · aguardando dois nomes","next":"Completar o ofício com os dois últimos nomes pendentes e encaminhar após confirmação. Sem dados dos processos neste painel."},
+    {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
-    {"area":"Prioridades 10/11 — TCE","text":"8h–8h45: conferir requisitos e concluir um arquivamento, se estiver regular."},
-    {"area":"Prioridades 10/11 — TCE","text":"8h45–9h15: revisar o despacho pronto, solicitar o nome pendente e aguardar resposta para incluí-lo."},
-    {"area":"Prioridades 10/11 — Wellcrest","text":"9h15–10h30: definir e preparar novas postagens; revisar antes de publicar."},
-    {"area":"Prioridades 10/11 — PixelLabs","text":"10h30–12h: atualizar foto do site imobiliário e avaliar CRM e captador de leads."},
-    {"area":"Prioridades 10/11 — TCE","text":"12h–12h30: fazer pausa e conferir se chegou o nome para o processo; incluir apenas se confirmado."},
-    {"area":"Prioridades 10/11 — PixelLabs","text":"12h30–13h40: conferir arquivos do outro site e identificar alterações necessárias."},
-    {"area":"Prioridades 10/11","text":"13h40–14h: revisar encaminhamentos e registrar o que ficou pendente."},
+    {"area":"TCE","text":"Completar o ofício com os dois últimos nomes pendentes e encaminhar o processo.","priority":"Alta","status":"Pendente","next":"Receber os dois nomes, incluir no ofício e encaminhar."},
+    {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 07/12/2026 a 11/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
+    {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 14/12/2026 a 18/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
@@ -31,8 +28,7 @@
     {"area":"Contingência","text":"Escolher barras de proteína e definir quantidade, validade e adequação alimentar antes da compra."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
     {"area":"Apresentação da primeira instrução","text":"Revisar o material existente e identificar o que falta concluir para apresentação em 17/11/2026."},
-    {"area":"Apresentação da primeira instrução","text":"Preparar e apresentar a primeira instrução em 17/11/2026; horário ainda não informado."},
-    {"area":"Pessoal / documentos","text":"Pegar as declarações do TRE — abono de falta.","priority":"Baixa","status":"Pendente","next":"Retirar ou solicitar as declarações de abono de falta no TRE."}
+    {"area":"Apresentação da primeira instrução","text":"Preparar e apresentar a primeira instrução em 17/11/2026; horário ainda não informado."}
   ],
   "bills": [
     {"name":"Energia","paid":true,"status":"Paga em 09/11/2026"},
