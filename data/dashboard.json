@@ -1,5 +1,5 @@
 {
-  "updated": "10/11/2026 07:00 — horário de São Luís",
+  "updated": "11/11/2026 08:05 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
@@ -31,7 +31,8 @@
     {"area":"Contingência","text":"Escolher barras de proteína e definir quantidade, validade e adequação alimentar antes da compra."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
     {"area":"Apresentação da primeira instrução","text":"Revisar o material existente e identificar o que falta concluir para apresentação em 17/11/2026."},
-    {"area":"Apresentação da primeira instrução","text":"Preparar e apresentar a primeira instrução em 17/11/2026; horário ainda não informado."}
+    {"area":"Apresentação da primeira instrução","text":"Preparar e apresentar a primeira instrução em 17/11/2026; horário ainda não informado."},
+    {"area":"Pessoal / documentos","text":"Pegar as declarações do TRE — abono de falta.","priority":"Baixa","status":"Pendente","next":"Retirar ou solicitar as declarações de abono de falta no TRE."}
   ],
   "bills": [
     {"name":"Energia","paid":true,"status":"Paga em 09/11/2026"},
