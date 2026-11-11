@@ -1,9 +1,9 @@
 {
-  "updated": "11/11/2026 09:50 — horário de São Luís",
+  "updated": "11/11/2026 09:58 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
-    {"name":"Wellcrest Lab","icon":"↗","status":"Novas postagens a preparar","next":"Definir temas, produzir textos e materiais e revisar antes de publicar. Nenhuma publicação nova confirmada."},
+    {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Apresentar em 17/11/2026","next":"Retomar o trabalho, revisar material existente e identificar o que falta concluir."},
@@ -20,7 +20,6 @@
     {"area":"PixelLabs — site imobiliário","text":"Aguardar as imagens dos imóveis para utilizá-las no site."},
     {"area":"PixelLabs — atualização de site","text":"Conferir os arquivos recebidos, ainda não analisados."},
     {"area":"PixelLabs — atualização de site","text":"Identificar as alterações necessárias e atualizar o site com o material recebido."},
-    {"area":"Wellcrest Lab","text":"Preparar novas postagens e confirmar antes de publicar."},
     {"area":"Carro","text":"Validar amortecedor dianteiro direito, coifas, pastilhas e junta axial esquerda com diagnóstico e compatibilidade."},
     {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
