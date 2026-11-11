@@ -1,5 +1,5 @@
 {
-  "updated": "11/11/2026 13:08 — horário de São Luís",
+  "updated": "11/11/2026 13:13 — horário de São Luís",
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
@@ -7,11 +7,13 @@
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Apresentar em 17/11/2026","next":"Retomar o trabalho, revisar material existente e identificar o que falta concluir."},
-    {"name":"Pendências administrativas","icon":"□","status":"Ofício concluído · aguardando aprovação","next":"Aguardar aprovação do despacho de envio e encaminhar após liberação. Sem dados dos processos neste painel."},
+    {"name":"Pendências administrativas","icon":"□","status":"Ofício concluído · enviado para aprovação","next":"Aguardar aprovação e encaminhar após liberação. Sem dados dos processos neste painel."},
+    {"name":"Processo de abono de faltas","icon":"✓","status":"Concluído · enviado ao GEP · aguardando aprovação","next":"Aguardar aprovação do GEP. Sem dados do processo neste painel."},
     {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
-    {"area":"TCE","text":"Aguardar aprovação do despacho de envio do ofício com os dois nomes incluídos.","priority":"Alta","status":"Aguardando aprovação","next":"Após aprovação, encaminhar o processo."},
+    {"area":"TCE — ofício com dois nomes","text":"Aguardar aprovação do ofício com os dois nomes incluídos.","priority":"Alta","status":"Aguardando aprovação","next":"Após aprovação, encaminhar o processo."},
+    {"area":"TCE — abono de faltas","text":"Aguardar aprovação do processo de abono de faltas enviado ao GEP.","priority":"Alta","status":"Aguardando aprovação","next":"Aguardar retorno do GEP."},
     {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 07/12/2026 a 11/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
     {"area":"TRE — abono de falta","text":"Elaborar despacho solicitando folga de 14/12/2026 a 18/12/2026.","priority":"Alta","status":"Pendente","next":"Preparar e revisar o despacho."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
