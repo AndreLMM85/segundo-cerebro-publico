@@ -1,15 +1,15 @@
 {
-  "updated": "12/11/2026 14:32 — horário de São Luís",
+  "updated": "12/11/2026 16:23 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
-    "xp": 40,
+    "xp": 65,
     "nextLevelXp": 100,
     "streak": 0,
     "weeklyMissions": [
       {"area": "TCE", "title": "Concluir e enviar processo prioritário para assinatura", "xpBonus": 20, "status": "Concluída"},
       {"area": "PixelLabs", "title": "Avançar uma entrega concreta de site, lead ou follow-up", "xpBonus": 20, "status": "Pendente"},
-      {"area": "Wellcrest", "title": "Publicar um conteúdo", "xpBonus": 20, "status": "Pendente"}
+      {"area": "Wellcrest", "title": "Publicar um conteúdo", "xpBonus": 20, "status": "Concluída"}
     ],
     "achievements": [],
     "xpRules": [
@@ -64,7 +64,7 @@
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · escolheu o Imobisoft Corretor · imagens pendentes","next":"Sebastião escolheu a segunda opção. Avançar conforme essa definição; atualizar a foto já recebida e aguardar as imagens dos imóveis."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Análise em andamento","next":"Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
-    {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
+    {"name":"Wellcrest Lab","icon":"↗","status":"Postagem concluída hoje · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto retornado com apontamentos para correção","next":"Aplicar as correções apontadas e estudar o material para apresentar em 17/11/2026."},
