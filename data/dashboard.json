@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 07:22 — horário de São Luís",
+  "updated": "12/11/2026 07:24 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -84,7 +84,6 @@
     {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
     {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
-    {"area":"Contingência","text":"Escolher barras de proteína e definir quantidade, validade e adequação alimentar antes da compra."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
     {"area":"Apresentação da primeira instrução","text":"Estudar o material da primeira instrução para apresentar em 17/11/2026.","priority":"Alta","status":"Em preparação","next":"Estudar o conteúdo e revisar os pontos principais antes da apresentação."}
   ],
@@ -99,7 +98,6 @@
   ],
   "supplies": [
     {"name":"Almôndegas enlatadas","status":"Adquirido","detail":"3 latas · validade informada: 24/09/2029."},
-    {"name":"Atum enlatado","status":"Adquirido","detail":"3 latas · validade informada: 11/2027."},
-    {"name":"Barras de proteína","status":"Compra não confirmada","detail":"Quantidade e especificações a definir."}
+    {"name":"Atum enlatado","status":"Adquirido","detail":"3 latas · validade informada: 11/2027."}
   ]
 }
