@@ -1,5 +1,5 @@
 {
-  "updated": "11/11/2026 22:33 — horário de São Luís",
+  "updated": "12/11/2026 07:22 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -99,6 +99,7 @@
   ],
   "supplies": [
     {"name":"Almôndegas enlatadas","status":"Adquirido","detail":"3 latas · validade informada: 24/09/2029."},
+    {"name":"Atum enlatado","status":"Adquirido","detail":"3 latas · validade informada: 11/2027."},
     {"name":"Barras de proteína","status":"Compra não confirmada","detail":"Quantidade e especificações a definir."}
   ]
 }
