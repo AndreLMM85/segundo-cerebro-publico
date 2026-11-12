@@ -1,5 +1,5 @@
 {
-  "updated": "11/11/2026 22:23 — horário de São Luís",
+  "updated": "11/11/2026 22:33 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -52,6 +52,15 @@
       "Nenhum valor financeiro, dado de saúde, rota, contato ou link privado entra no painel público."
     ]
   },
+  "countdowns": [
+    {"title": "Apresentação da primeira instrução", "date": "2026-11-17T00:00:00-03:00", "category": "Compromisso", "status": "Em preparação"},
+    {"title": "Parcela do carro", "date": "2026-11-26T00:00:00-03:00", "category": "Conta", "status": "Pagamento a confirmar"},
+    {"title": "Spotify", "date": "2026-12-04T00:00:00-03:00", "category": "Conta", "status": "Pagamento a confirmar"},
+    {"title": "Condomínio", "date": null, "category": "Conta", "status": "Data a definir"},
+    {"title": "Maçonaria", "date": null, "category": "Conta", "status": "Data a definir"},
+    {"title": "Próxima postagem — Wellcrest Lab", "date": null, "category": "Projeto", "status": "Data a definir"},
+    {"title": "Entrega do site do Bruno Mantovani", "date": null, "category": "Projeto", "status": "Data a definir"}
+  ],
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
