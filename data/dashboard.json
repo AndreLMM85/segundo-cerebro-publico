@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 08:56 — horário de São Luís",
+  "updated": "12/11/2026 10:17 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -62,30 +62,30 @@
     {"title": "Entrega do site do Bruno Mantovani", "date": null, "category": "Projeto", "status": "Data a definir"}
   ],
   "projects": [
-    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · imagens pendentes","next":"Instalar CRM e captador de leads; atualizar foto já recebida. Aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
-    {"name":"PixelLabs — atualização de site","icon":"▣","status":"Arquivos recebidos · não revisados","next":"Conferir arquivos recebidos, identificar alterações necessárias e atualizar o site. Prazo não informado."},
+    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · CRM em definição · imagens pendentes","next":"Aguardar retorno de Sebastião sobre como trabalhar o CRM da Hix Imóveis. Depois, instalar CRM e captador de leads, atualizar foto já recebida e aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
+    {"name":"PixelLabs — atualização de site","icon":"▣","status":"Análise em andamento","next":"Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
     {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
-    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Primeira instrução concluída · apresentação em 17/11/2026","next":"Estudar o material para apresentar em 17/11/2026."},
+    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto ajustado e enviado para correção","next":"Aguardar correção e estudar o material para apresentar em 17/11/2026."},
     {"name":"Pendências administrativas","icon":"□","status":"Ofício concluído · enviado para aprovação","next":"Aguardar aprovação e encaminhar após liberação. Sem dados dos processos neste painel."},
-    {"name":"Processo pessoal TCE — 26.002639","icon":"✓","status":"Processo de abono de faltas enviado à UNGEP · aguardando aprovação","next":"Aguardar aprovação da UNGEP. Registrar futuras solicitações pessoais ao TCE neste processo."},
+    {"name":"Processo pessoal TCE — 26.002639","icon":"✓","status":"Processo de abono de faltas enviado à UNGEP · aguardando aprovação","next":"SEI verificado em 12/11/2026: não há novos processos. Aguardar aprovação da UNGEP. Registrar futuras solicitações pessoais ao TCE neste processo."},
     {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
     {"area":"TCE — processo pessoal 26.002639","text":"Aguardar aprovação do processo de abono de faltas nº 26.002639.","priority":"Alta","status":"Aguardando aprovação","next":"SEI verificado em 12/11/2026: não há novos processos. Aguardar retorno da UNGEP."},
-    {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
+    {"area":"PixelLabs — site imobiliário","text":"Aguardar retorno de Sebastião sobre a forma de trabalho do CRM da Hix Imóveis."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
     {"area":"PixelLabs — site imobiliário","text":"Aguardar as imagens dos imóveis para utilizá-las no site."},
-    {"area":"PixelLabs — atualização de site","text":"Conferir os arquivos recebidos, ainda não analisados."},
-    {"area":"PixelLabs — atualização de site","text":"Identificar as alterações necessárias e atualizar o site com o material recebido."},
+    {"area":"PixelLabs — atualização de site","text":"Analisar o material do Bruno Mantovani e identificar as alterações necessárias."},
+    {"area":"PixelLabs — atualização de site","text":"Atualizar o site com o material revisado do Bruno Mantovani."},
     {"area":"Carro","text":"Validar amortecedor dianteiro direito, coifas, pastilhas e junta axial esquerda com diagnóstico e compatibilidade."},
     {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
     {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
-    {"area":"Apresentação da primeira instrução","text":"Estudar o material da primeira instrução para apresentar em 17/11/2026.","priority":"Alta","status":"Em preparação","next":"Estudar o conteúdo e revisar os pontos principais antes da apresentação."}
+    {"area":"Apresentação da primeira instrução","text":"Aguardar correção do texto e estudar o material para apresentar em 17/11/2026.","priority":"Alta","status":"Em preparação","next":"Aguardar correção e estudar o conteúdo para a apresentação."}
   ],
   "bills": [
     {"name":"Energia","paid":true,"status":"Paga em 09/11/2026"},
