@@ -1,13 +1,13 @@
 {
-  "updated": "12/11/2026 12:14 — horário de São Luís",
+  "updated": "12/11/2026 14:26 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
-    "xp": 0,
+    "xp": 40,
     "nextLevelXp": 100,
     "streak": 0,
     "weeklyMissions": [
-      {"area": "TCE", "title": "Concluir e enviar processo prioritário", "xpBonus": 20, "status": "Pendente"},
+      {"area": "TCE", "title": "Concluir e enviar processo prioritário para assinatura", "xpBonus": 20, "status": "Concluída"},
       {"area": "PixelLabs", "title": "Avançar uma entrega concreta de site, lead ou follow-up", "xpBonus": 20, "status": "Pendente"},
       {"area": "Wellcrest", "title": "Publicar um conteúdo", "xpBonus": 20, "status": "Pendente"}
     ],
@@ -17,7 +17,7 @@
       {"action": "Tarefa 🟡 Média concluída", "xp": 10},
       {"action": "Tarefa 🟠 Alta concluída", "xp": 20},
       {"action": "Tarefa 🔴 Urgente concluída", "xp": 30},
-      {"action": "Processo TCE concluído, assinado e enviado", "xp": 40},
+      {"action": "Processo TCE concluído e enviado para assinatura", "xp": 40},
       {"action": "Postagem Wellcrest publicada", "xp": 25},
       {"action": "Etapa de site/cliente entregue", "xp": 35},
       {"action": "Conta paga no prazo", "xp": 15},
@@ -46,7 +46,7 @@
     ],
     "rules": [
       "XP é atribuído apenas após a entrega real.",
-      "Processo TCE só pontua quando assinado pela chefe e enviado ao setor responsável.",
+      "Processo TCE pontua quando concluído e enviado para assinatura, pois nesse momento sai da responsabilidade do usuário.",
       "Atraso não zera XP; apenas impede o bônus da semana.",
       "A sequência usa escudo para imprevistos e não é zerada por uma única falha.",
       "Nenhum valor financeiro, dado de saúde, rota, contato ou link privado entra no painel público."
