@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 07:24 — horário de São Luís",
+  "updated": "12/11/2026 08:56 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -73,7 +73,7 @@
     {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
-    {"area":"TCE — processo pessoal 26.002639","text":"Aguardar aprovação do processo de abono de faltas nº 26.002639.","priority":"Alta","status":"Aguardando aprovação","next":"Aguardar retorno da UNGEP."},
+    {"area":"TCE — processo pessoal 26.002639","text":"Aguardar aprovação do processo de abono de faltas nº 26.002639.","priority":"Alta","status":"Aguardando aprovação","next":"SEI verificado em 12/11/2026: não há novos processos. Aguardar retorno da UNGEP."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar um CRM; escolher solução compatível com o atendimento via WhatsApp e WhatsApp Business."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
