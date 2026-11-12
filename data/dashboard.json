@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 14:26 — horário de São Luís",
+  "updated": "12/11/2026 14:29 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -62,7 +62,7 @@
     {"title": "Entrega do site do Bruno Mantovani", "date": null, "category": "Projeto", "status": "Data a definir"}
   ],
   "projects": [
-    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · CRM em definição · imagens pendentes","next":"Aguardar retorno de Sebastião sobre como trabalhar o CRM da Hix Imóveis. Depois, instalar CRM e captador de leads, atualizar foto já recebida e aguardar imagens dos imóveis. Atendimento atual via WhatsApp e WhatsApp Business, sem CRM. Agente de IA para qualificação: interesse futuro, não contratado."},
+    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · segunda opção definida · imagens pendentes","next":"Sebastião escolheu a segunda opção. Avançar conforme essa definição; atualizar a foto já recebida e aguardar as imagens dos imóveis."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Análise em andamento","next":"Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
     {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
@@ -74,7 +74,6 @@
   ],
   "tasks": [
     {"area":"TCE — processo pessoal 26.002639","text":"Aguardar aprovação do processo de abono de faltas nº 26.002639.","priority":"Alta","status":"Aguardando aprovação","next":"SEI verificado em 12/11/2026: não há novos processos. Aguardar retorno da UNGEP."},
-    {"area":"PixelLabs — site imobiliário","text":"Aguardar retorno de Sebastião sobre a forma de trabalho do CRM da Hix Imóveis."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
     {"area":"PixelLabs — site imobiliário","text":"Aguardar as imagens dos imóveis para utilizá-las no site."},
