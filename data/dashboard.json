@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 14:29 — horário de São Luís",
+  "updated": "12/11/2026 14:32 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -62,7 +62,7 @@
     {"title": "Entrega do site do Bruno Mantovani", "date": null, "category": "Projeto", "status": "Data a definir"}
   ],
   "projects": [
-    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · segunda opção definida · imagens pendentes","next":"Sebastião escolheu a segunda opção. Avançar conforme essa definição; atualizar a foto já recebida e aguardar as imagens dos imóveis."},
+    {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · escolheu o Imobisoft Corretor · imagens pendentes","next":"Sebastião escolheu a segunda opção. Avançar conforme essa definição; atualizar a foto já recebida e aguardar as imagens dos imóveis."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Análise em andamento","next":"Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
     {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
