@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 11:06 — horário de São Luís",
+  "updated": "12/11/2026 12:14 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -80,6 +80,7 @@
     {"area":"PixelLabs — site imobiliário","text":"Aguardar as imagens dos imóveis para utilizá-las no site."},
     {"area":"PixelLabs — atualização de site","text":"Analisar o material do Bruno Mantovani e identificar as alterações necessárias."},
     {"area":"PixelLabs — atualização de site","text":"Atualizar o site com o material revisado do Bruno Mantovani."},
+    {"area":"ProDentim","text":"Acompanhar e-mail do ProDentim.","status":"Aguardando resposta"},
     {"area":"Carro","text":"Validar amortecedor dianteiro direito, coifas, pastilhas e junta axial esquerda com diagnóstico e compatibilidade."},
     {"area":"Carro","text":"Confirmar tipo de coifa, eixo das pastilhas, disponibilidade, frete e mão de obra; programar alinhamento e balanceamento após os reparos."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
