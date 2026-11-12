@@ -1,5 +1,5 @@
 {
-  "updated": "12/11/2026 10:17 — horário de São Luís",
+  "updated": "12/11/2026 11:06 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -67,7 +67,7 @@
     {"name":"Wellcrest Lab","icon":"↗","status":"Postagem publicada · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Execução financeira pendente","next":"Inspecionar batidas na dianteira, validar diagnóstico e aplicação das peças. Planejamento financeiro não confirma segurança para aguardar."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
-    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto ajustado e enviado para correção","next":"Aguardar correção e estudar o material para apresentar em 17/11/2026."},
+    {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto retornado com apontamentos para correção","next":"Aplicar as correções apontadas e estudar o material para apresentar em 17/11/2026."},
     {"name":"Pendências administrativas","icon":"□","status":"Ofício concluído · enviado para aprovação","next":"Aguardar aprovação e encaminhar após liberação. Sem dados dos processos neste painel."},
     {"name":"Processo pessoal TCE — 26.002639","icon":"✓","status":"Processo de abono de faltas enviado à UNGEP · aguardando aprovação","next":"SEI verificado em 12/11/2026: não há novos processos. Aguardar aprovação da UNGEP. Registrar futuras solicitações pessoais ao TCE neste processo."},
     {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
@@ -85,7 +85,7 @@
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
     {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
-    {"area":"Apresentação da primeira instrução","text":"Aguardar correção do texto e estudar o material para apresentar em 17/11/2026.","priority":"Alta","status":"Em preparação","next":"Aguardar correção e estudar o conteúdo para a apresentação."}
+    {"area":"Apresentação da primeira instrução","text":"Aplicar os apontamentos de correção no texto da primeira instrução.","priority":"Alta","status":"Em correção","next":"Aplicar as correções e estudar o conteúdo para a apresentação em 17/11/2026."}
   ],
   "bills": [
     {"name":"Energia","paid":true,"status":"Paga em 09/11/2026"},
