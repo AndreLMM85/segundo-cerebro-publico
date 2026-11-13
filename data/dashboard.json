@@ -1,9 +1,9 @@
 {
-  "updated": "13/11/2026 10:04 — horário de São Luís",
+  "updated": "13/11/2026 11:10 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
-    "xp": 65,
+    "xp": 90,
     "nextLevelXp": 100,
     "streak": 0,
     "weeklyMissions": [
@@ -64,7 +64,7 @@
   "projects": [
     {"name":"PixelLabs — site imobiliário","icon":"⌂","status":"Em execução · escolheu o Imobisoft Corretor · imagens pendentes","next":"Sebastião escolheu a segunda opção. Avançar conforme essa definição; atualizar a foto já recebida e aguardar as imagens dos imóveis."},
     {"name":"PixelLabs — atualização de site","icon":"▣","status":"Análise em andamento","next":"Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
-    {"name":"Wellcrest Lab","icon":"↗","status":"Preparar nova postagem","next":"Preparar a nova postagem diária do produto, mantendo a sequência de duas semanas antes de iniciar tráfego pago."},
+    {"name":"Wellcrest Lab","icon":"↗","status":"Postagem concluída hoje · próxima publicação a definir","next":"Definir tema, produzir e revisar a próxima postagem."},
     {"name":"Manutenção do carro","icon":"⚙","status":"Diagnóstico validado · execução financeira pendente","next":"Diagnóstico validado e peças necessárias confirmadas conforme o relato. Definir execução financeira e agendar reparos."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto retornado com apontamentos para correção","next":"Aplicar as correções apontadas e estudar o material para apresentar em 17/11/2026."},
@@ -81,7 +81,6 @@
     {"area":"PixelLabs — atualização de site","text":"Atualizar o site com o material revisado do Bruno Mantovani."},
     {"area":"ProDentim","text":"Verificar e-mail do ProDentim na rotina da manhã.","status":"Verificação diária"},
     {"area":"Carro","text":"Definir execução financeira e agendar reparos com diagnóstico e peças validados."},
-    {"area":"Wellcrest Lab","text":"Preparar a nova postagem diária do produto."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
     {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
     {"area":"Rotina","text":"Concluir planejamento da abertura diária e revisão semanal sem publicar horários ou deslocamentos familiares."},
