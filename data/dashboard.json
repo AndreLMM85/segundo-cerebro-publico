@@ -1,5 +1,5 @@
 {
-  "updated": "13/11/2026 10:01 — horário de São Luís",
+  "updated": "13/11/2026 10:04 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -68,12 +68,11 @@
     {"name":"Manutenção do carro","icon":"⚙","status":"Diagnóstico validado · execução financeira pendente","next":"Diagnóstico validado e peças necessárias confirmadas conforme o relato. Definir execução financeira e agendar reparos."},
     {"name":"Contingência familiar — 72 horas","icon":"◇","status":"Em definição","next":"Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name":"Apresentação da primeira instrução","icon":"◈","status":"Texto retornado com apontamentos para correção","next":"Aplicar as correções apontadas e estudar o material para apresentar em 17/11/2026."},
-    {"name":"Pendências administrativas","icon":"□","status":"Processo assinado e enviado · retornou para nova deliberação · novo despacho enviado para assinatura","next":"Aguardar nova assinatura e encaminhamento. Sem dados do processo neste painel."},
+    {"name":"Pendências administrativas","icon":"□","status":"Demanda concluída · processo enviado para assinatura","next":"Sem acompanhamento pendente para o usuário."},
     {"name":"Processo pessoal TCE — 26.002639","icon":"✓","status":"Processo de abono de faltas parado no setor","next":"Aguardar movimentação do setor responsável. Registrar futuras solicitações pessoais ao TCE neste processo."},
     {"name":"Declarações do TRE — abono de falta","icon":"✓","status":"Declarações obtidas · 16 dias de folga","next":"Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
-    {"area":"TCE — pendências administrativas","text":"Aguardar nova assinatura e encaminhamento do processo retornado para deliberação.","priority":"Alta","status":"Aguardando assinatura"},
     {"area":"TCE — processo pessoal 26.002639","text":"Aguardar movimentação do processo de abono de faltas nº 26.002639.","priority":"Alta","status":"Parado no setor","next":"Processo permanece no setor responsável."},
     {"area":"PixelLabs — site imobiliário","text":"Instalar captador de leads no site."},
     {"area":"PixelLabs — site imobiliário","text":"Atualizar a foto já recebida."},
