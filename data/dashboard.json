@@ -1,5 +1,5 @@
 {
-  "updated": "14/11/2026 13:57 — horário de São Luís",
+  "updated": "14/11/2026 21:32 — horário de São Luís",
   "gamification": {
     "level": 1,
     "levelName": "Iniciante",
@@ -80,6 +80,12 @@
     {"area":"PixelLabs — atualização de site","text":"Analisar o material do Bruno Mantovani e identificar as alterações necessárias."},
     {"area":"PixelLabs — atualização de site","text":"Atualizar o site com o material revisado do Bruno Mantovani."},
     {"area":"ProDentim","text":"Verificar e-mail do ProDentim na rotina da manhã.","status":"Verificação diária"},
+    {"area":"Infoprodutos — Programa de Controle Total","text":"Revisar o ebook final, capa e arquivo de entrega antes da publicação."},
+    {"area":"Infoprodutos — Programa de Controle Total","text":"Preparar página de vendas e cadastrar o ebook na plataforma de vendas."},
+    {"area":"Infoprodutos — Programa de Controle Total","text":"Testar checkout e entrega do ebook antes de divulgar."},
+    {"area":"Infoprodutos — Guia de Sobrevivência para Guerra Civil","text":"Revisar o ebook final, especialmente orientações sensíveis, capa e arquivo de entrega."},
+    {"area":"Infoprodutos — Guia de Sobrevivência para Guerra Civil","text":"Preparar página de vendas e cadastrar o ebook na plataforma de vendas."},
+    {"area":"Infoprodutos — Guia de Sobrevivência para Guerra Civil","text":"Testar checkout e entrega do ebook antes de divulgar."},
     {"area":"Carro","text":"Definir execução financeira e agendar reparos com diagnóstico e peças validados."},
     {"area":"Contingência","text":"Realizar reunião familiar para definir o plano de 72 horas; registrar decisões detalhadas apenas em ambiente privado."},
     {"area":"Contingência","text":"Completar lista da mochila, água, alimentos e equipamentos; conferir estoque e validades."},
