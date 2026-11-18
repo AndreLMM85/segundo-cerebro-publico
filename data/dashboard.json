@@ -1,10 +1,10 @@
 {
-  "updated": "17/11/2026 14:48 — horário de São Luís",
+  "updated": "17/11/2026 21:49 — horário de São Luís",
   "gamification": {
-    "level": 1,
-    "levelName": "Iniciante",
-    "xp": 90,
-    "nextLevelXp": 100,
+    "level": 2,
+    "levelName": "Executor",
+    "xp": 120,
+    "nextLevelXp": 300,
     "streak": 0,
     "weeklyMissions": [
       {"area": "TCE", "title": "Concluir e enviar processo prioritário para assinatura", "xpBonus": 20, "status": "Concluída"},
@@ -53,7 +53,6 @@
     ]
   },
   "countdowns": [
-    {"title": "Apresentação da primeira instrução — hoje, 20h, Loja N.º 5", "date": "2026-11-17T20:00:00-03:00", "category": "Compromisso", "status": "Preparação final"},
     {"title": "Parcela do carro", "date": "2026-11-26T00:00:00-03:00", "category": "Conta", "status": "Pagamento a confirmar"},
     {"title": "Spotify", "date": "2026-12-04T00:00:00-03:00", "category": "Conta", "status": "Pagamento a confirmar"},
     {"title": "Condomínio", "date": null, "category": "Conta", "status": "Data a definir"},
@@ -62,12 +61,12 @@
     {"title": "Entrega do site do Bruno Mantovani", "date": null, "category": "Projeto", "status": "Data a definir"}
   ],
   "projects": [
-    {"name": "Apresentação da primeira instrução", "icon": "◈", "status": "Correção aceita · apresentação hoje às 20h", "next": "Revisar o texto final, ensaiar a apresentação e comparecer à Loja N.º 5 às 20h."},
-    {"name": "PixelLabs — site imobiliário", "icon": "⌂", "status": "Próxima frente após a Maçonaria", "next": "Após concluir o preparo da Maçonaria, atualizar as redes sociais da Wellcrest e avançar na demanda da PixelLabs."},
+    {"name": "PixelLabs — site imobiliário", "icon": "⌂", "status": "Próxima prioridade", "next": "Atualizar as redes sociais da Wellcrest e, em seguida, avançar na demanda da PixelLabs."},
     {"name": "PixelLabs — atualização de site", "icon": "▣", "status": "Análise em andamento", "next": "Analisar o material do Bruno Mantovani, identificar as alterações necessárias e atualizar o site. Prazo não informado."},
     {"name": "Wellcrest Lab", "icon": "↗", "status": "Postagem publicada em 16/11", "next": "Definir o próximo tema e a data da próxima postagem."},
     {"name": "ProDentim", "icon": "🦷", "status": "Aprovação confirmada · Resources Kit em verificação", "next": "Conferir os materiais autorizados para ClickBank antes de revisar a presell ou preparar a divulgação."},
     {"name": "Wix Afiliados", "icon": "◇", "status": "Candidatura recusada em 16/11", "next": "Sem ação imediata."},
+    {"name": "Apresentação da primeira instrução", "icon": "◈", "status": "Concluída com sucesso em 17/11/2026", "next": "Sem ação pendente."},
     {"name": "Manutenção do carro", "icon": "⚙", "status": "Diagnóstico validado · execução financeira pendente", "next": "Definir execução financeira e agendar reparos."},
     {"name": "Contingência familiar — 72 horas", "icon": "◇", "status": "Em definição", "next": "Realizar reunião familiar, definir responsabilidades e completar checklist de equipamentos e suprimentos. Detalhes operacionais ficam fora do painel."},
     {"name": "Pendências administrativas", "icon": "□", "status": "Demanda concluída · processo enviado para assinatura", "next": "Sem acompanhamento pendente para o usuário."},
@@ -75,13 +74,13 @@
     {"name": "Declarações do TRE — abono de falta", "icon": "✓", "status": "Declarações obtidas · 16 dias de folga", "next": "Elaborar os despachos solicitando as folgas de 07/12/2026 a 11/12/2026 e de 14/12/2026 a 18/12/2026."}
   ],
   "tasks": [
-    {"area": "Maçonaria — primeira instrução", "text": "Revisar o texto final e ensaiar a apresentação de hoje, às 20h, na Loja N.º 5.", "priority": "Urgente", "status": "Preparação final", "next": "Fazer a leitura completa em voz alta e organizar o material para a apresentação."},
-    {"area": "TCE — processo pessoal 26.002639", "text": "Aguardar movimentação do processo de abono de faltas nº 26.002639.", "priority": "Alta", "status": "Parado no setor", "next": "Processo permanece no setor responsável."},
+    {"area": "PixelLabs — site imobiliário", "text": "Atualizar as redes sociais da Wellcrest e avançar na demanda da PixelLabs.", "priority": "Alta", "status": "Próxima prioridade"},
     {"area": "PixelLabs — site imobiliário", "text": "Instalar captador de leads no site."},
     {"area": "PixelLabs — site imobiliário", "text": "Atualizar a foto já recebida."},
     {"area": "PixelLabs — site imobiliário", "text": "Aguardar as imagens dos imóveis para utilizá-las no site."},
     {"area": "PixelLabs — atualização de site", "text": "Analisar o material do Bruno Mantovani e identificar as alterações necessárias."},
     {"area": "PixelLabs — atualização de site", "text": "Atualizar o site com o material revisado do Bruno Mantovani."},
+    {"area": "TCE — processo pessoal 26.002639", "text": "Aguardar movimentação do processo de abono de faltas nº 26.002639.", "priority": "Alta", "status": "Parado no setor", "next": "Processo permanece no setor responsável."},
     {"area": "ProDentim", "text": "Conferir os materiais autorizados para ClickBank no Resources Kit.", "status": "Em verificação"},
     {"area": "Infoprodutos — Programa de Controle Total", "text": "Conferir o link de checkout na Hotmart e definir o canal inicial de divulgação.", "status": "Produto pronto para divulgação e venda"},
     {"area": "Infoprodutos — Guia de Sobrevivência para Guerra Civil", "text": "Revisar o ebook final, especialmente orientações sensíveis, capa e arquivo de entrega."},
